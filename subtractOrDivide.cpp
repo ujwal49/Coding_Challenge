@@ -5,7 +5,6 @@ using namespace std;
 
 int main(){
     int t;
-    //input the total test cases
     cin>>t;
     if(t >= 1 && t <= 1000){
         int arr[t];
