@@ -1,3 +1,4 @@
+// Question from HackerRank in CPP category.
 #include<iostream>
 #include<stdlib.h>
 
