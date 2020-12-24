@@ -1,3 +1,5 @@
+// question from HackerRank in CPP category.
+
 #include<iostream>
 #include<vector>
 #include <stdlib.h>
